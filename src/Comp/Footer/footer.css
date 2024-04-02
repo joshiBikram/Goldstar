@@ -1,0 +1,14 @@
+footer{
+    background: #525252;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    color: #fff;
+}
+footer h2{
+padding: 10px 0;
+text-decoration: underline;
+}
+li{
+    padding: 5px;
+}
